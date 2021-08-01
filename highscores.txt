@@ -1,0 +1,28 @@
+Sarah,610
+Adam,350
+Jill,600
+Fai,40
+Tala,30
+Jake,50
+Sarah,370
+Arshiya,300
+Sam,90
+Hend,90
+Peter,100
+Peter,50
+Camela,100
+Nadia,20
+Nada,150Sarah,330
+Sameera,20
+Sarah,0
+Kian,270
+nada,0
+sarah,0
+nada,0
+Sarah,70
+ natasha ,70
+Arshiya,280
+Sarah,70
+ sophia,260
+sarah,190
+ dev,80
